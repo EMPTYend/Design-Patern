@@ -1,0 +1,30 @@
+[
+  {
+    "record_id": 1,
+    "name": "Mia",
+    "score": 78.5,
+    "active": true,
+    "source": "file"
+  },
+  {
+    "record_id": 2,
+    "name": "Noah",
+    "score": 61.0,
+    "active": false,
+    "source": "file"
+  },
+  {
+    "record_id": 3,
+    "name": "Liam",
+    "score": 90.2,
+    "active": true,
+    "source": "file"
+  },
+  {
+    "record_id": 4,
+    "name": "Emma",
+    "score": 55.1,
+    "active": true,
+    "source": "file"
+  }
+]

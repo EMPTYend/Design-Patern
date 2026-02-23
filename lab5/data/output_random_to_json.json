@@ -1,0 +1,44 @@
+[
+  {
+    "record_id": 1004,
+    "name": "Alice",
+    "score": 15.43,
+    "active": false,
+    "source": "random"
+  },
+  {
+    "record_id": 1005,
+    "name": "Alice",
+    "score": 57.51,
+    "active": false,
+    "source": "random"
+  },
+  {
+    "record_id": 1000,
+    "name": "Bob",
+    "score": 9.25,
+    "active": false,
+    "source": "random"
+  },
+  {
+    "record_id": 1002,
+    "name": "Bob",
+    "score": 67.9,
+    "active": false,
+    "source": "random"
+  },
+  {
+    "record_id": 1003,
+    "name": "Bob",
+    "score": 60.14,
+    "active": true,
+    "source": "random"
+  },
+  {
+    "record_id": 1001,
+    "name": "David",
+    "score": 27.09,
+    "active": false,
+    "source": "random"
+  }
+]

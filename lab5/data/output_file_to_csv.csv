@@ -1,0 +1,5 @@
+record_id;name;score;active;source
+3;Liam;95.2;True;file
+1;Mia;83.5;True;file
+2;Noah;61.0;False;file
+4;Emma;60.1;True;file
